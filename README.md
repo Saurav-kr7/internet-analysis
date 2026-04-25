@@ -1,10 +1,11 @@
-# 🌐 World Internet Users Analysis
+# 🌐 Data Science Projects
 
-A data analysis project exploring global internet adoption trends from 1990 to 2022, built with Python and pandas as part of my data science learning journey.
+A collection of data analysis projects exploring real-world datasets, built with Python and pandas as part of my data science learning journey.
 
 ---
+## 📁 Projects
 
-## 📊 What This Project Covers
+### 1. 🌍 World Internet Users Analysis (`internet_analysis.ipynb`)
 
 - Global internet user growth from 3 million (1990) to 5.3 billion (2022)
 - Percentage of world population connected to the internet each year
@@ -12,6 +13,12 @@ A data analysis project exploring global internet adoption trends from 1990 to 2
 - Internet penetration breakdown by continent over time
 
 ---
+## 🔍 Key Findings
+
+- Internet users grew from **3 million in 1990** to over **5.3 billion in 2022**
+- It took only **7 years** (by 1997) to reach 100 million users
+- The world crossed **50% internet penetration in 2019**
+- **Europe** leads with ~87% penetration, while **Africa** remains the lowest at ~40% as of 2021
 
 ## 📁 Project Structure
 
@@ -25,15 +32,6 @@ A data analysis project exploring global internet adoption trends from 1990 to 2
 ├── .gitignore
 └── README.md
 ```
-
----
-
-## 🔍 Key Findings
-
-- Internet users grew from **3 million in 1990** to over **5.3 billion in 2022**
-- It took only **7 years** (by 1997) to reach 100 million users
-- The world crossed **50% internet penetration in 2019**
-- **Europe** leads with ~87% penetration, while **Africa** remains the lowest at ~40% as of 2021
 
 ---
 
@@ -83,4 +81,4 @@ Datasets were sourced from the **Cisco Networking Academy** Data Science Essenti
 
 ## 👨‍💻 About
 
-This project was built as part of my self-learning journey into data science. I started learning 20 days ago and completed the **Cisco NetAcad Data Science Essentials with Python** certification course alongside practicing pandas and matplotlib hands-on.
+This repo documents my self-learning journey into data science. I started 20 days ago and completed the **Cisco NetAcad Data Science Essentials with Python** certification, practicing pandas and matplotlib hands-on. More projects will be added here as I keep learning.
