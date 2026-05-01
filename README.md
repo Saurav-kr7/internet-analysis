@@ -23,7 +23,7 @@ A collection of data analysis projects exploring real-world datasets, built with
 ## 📁 Project Structure
 
 ```
-├── data/
+├── data/internet-analysis
 │   ├── world-internet-users.csv
 │   ├── historical-world-population.csv
 │   ├── extension-internetusers-by-continent.csv
